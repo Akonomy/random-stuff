@@ -1,6 +1,20 @@
+"""
 
-#after run please press down , up , left and right key to move the point :)) also space , enter  and r will work 
-#computer go find way
+        Pentru a testa a cest program va trebui sa incepeti cu tastele de sageti sus jos respectiv stanga dreapta
+dupa ce va obisnuiti cu miscarea patratelului in grafic  cu tasta space desenati un labirint , in cazul care puneti gresit
+un block tarta r e de ajutor intrucat va reseta blocul respectiv daca iesiti din careu cu patratelul apasati tasta l si
+pozitia acestuia va fi dusa la mijlocul acestuia .
+
+Cu tasta w selectati zona de finish iar cu tasta enter selectati zona de start..Atentie insa procesul dureaza foarte mult
+intrucat algoritmul de gasire a caii nu este cel mai bun si este bazat pe grafica , de asemenea poate avea probleme in cazul
+care labirintul e complicat sau nu exista niciun labirint mai bine zis programul nu e bine pus la punct..
+
+
+e ar trebui sa actioneze ca un reset ,ar trebui....:)
+
+
+
+"""
 from turtle import*
 import turtle as ak
 from random import*
